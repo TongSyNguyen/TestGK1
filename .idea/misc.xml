@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android4th/TestGK1/app/src/main/res/drawable/view_stroke.xml" value="0.2703125" />
         <entry key="..\:/Android4th/TestGK1/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
         <entry key="..\:/Android4th/TestGK1/app/src/main/res/layout/activity_song.xml" value="0.264" />
+        <entry key="..\:/Android4th/TestGK1/app/src/main/res/layout/item_rcv.xml" value="0.2" />
+        <entry key="..\:/Android4th/TestGK1/app/src/main/res/layout/rcv.xml" value="0.1793478260869565" />
       </map>
     </option>
   </component>
